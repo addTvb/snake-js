@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 100px;
+}
+.field {
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    background: #282828;
+}
+.excel {
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+}
+.snakeBody {
+    background: #2bff00;
+    border-radius: 30%;
+    border: 1px solid #fff;
+}
+.head {
+    background: #009900;
+    border-radius: 10%;
+}
+.mouse {
+    background: #f00050;
+    border-radius: 50%;
+}
